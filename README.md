@@ -1,2 +1,2 @@
 # background_generator
-This project is part of Zero to mastery course
+This project is part of ZTM course
